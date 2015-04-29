@@ -1,1 +1,23 @@
-{}
+[
+{
+    "id":          "mldb-hello-world",
+    "name":        "Hello, world!",
+    "description": "Minimal MLDB plugin",
+    "website":     "https://github.com/datacratic/mldb-hello-world",
+    "load_url":    "git://github.com/datacratic/mldb-hello-world"
+},
+{
+    "id":          "mldb-pytanic-plugin",
+    "name":        "Pytanic",
+    "description": "MLDB plugin that provides a web ui to score the survival probability of a Titanic passenger ",
+    "website":     "https://github.com/datacratic/mldb-pytanic-plugin",
+    "load_url":    "git://github.com/datacratic/mldb-pytanic-plugin"
+},
+{
+    "id":          "mldb-dataset-loader",
+    "name":        "Dataset Loader ",
+    "description": "MLDB plugin that allows for the loading of CSV files from the web ",
+    "website":     "https://github.com/datacratic/mldb-dataset-loader",
+    "load_url":    "git://github.com/datacratic/mldb-dataset-loader "
+}
+]
