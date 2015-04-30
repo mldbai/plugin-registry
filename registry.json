@@ -19,5 +19,12 @@
     "description": "MLDB plugin that allows for the loading of CSV files from the web ",
     "website":     "https://github.com/datacratic/mldb-dataset-loader",
     "load_url":    "git://github.com/datacratic/mldb-dataset-loader "
+},
+{
+    "id":          "mldb-pivot-plugin",
+    "name":        "Pivot Table",
+    "description": "MLDB plugin that allows for interactive data exploration",
+    "website":     "https://github.com/datacratic/mldb-pivot-plugin",
+    "load_url":    "git://github.com/datacratic/mldb-pivot-plugin "
 }
 ]
