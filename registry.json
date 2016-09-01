@@ -7,6 +7,13 @@
     "load_url":    "git://github.com/datacratic/mldb-hello-world"
 },
 {
+    "id":          "mldb-mlpaint",
+    "name":        "MLPaint",
+    "description": "MLPaint is the Real-Time Handwritten Digit Recognizer",
+    "website":     "https://github.com/mldbai/mlpaint",
+    "load_url":    "git://github.com/mldbai/mlpaint"
+},
+{
     "id":          "mldb-pytanic-plugin",
     "name":        "Pytanic",
     "description": "MLDB plugin that provides a web ui to score the survival probability of a Titanic passenger.",
