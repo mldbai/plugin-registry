@@ -7,6 +7,13 @@
     "load_url":    "git://github.com/datacratic/mldb-hello-world"
 },
 {
+    "id":          "mldb-deepteach",
+    "name":        "DeepTeach",
+    "description": "DeepTeach is the interactive deep image classifier builder",
+    "website":     "https://github.com/mldbai/deepteach",
+    "load_url":    "git://github.com/mldbai/deepteach"
+},
+{
     "id":          "mldb-mlpaint",
     "name":        "MLPaint",
     "description": "MLPaint is the Real-Time Handwritten Digit Recognizer",
